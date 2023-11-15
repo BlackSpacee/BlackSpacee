@@ -48,7 +48,7 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/all-smil
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackSpacee&theme=flag-india)](https://github.com/BlackSpacee/github-readme-stats) -->
 
-[<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackSpacee&layout=compact" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api?username=BlackSpacee&count_private=true&show_icons=true" height=145/></span>](https://kiyomi9.gitee.io/)
+[<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackSpacee&hide=html&layout=compact" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api?username=BlackSpacee&count_private=true&show_icons=true" height=145/></span>](https://kiyomi9.gitee.io/)
 
 <!--
 <table border="0">
