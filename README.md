@@ -2,7 +2,7 @@
 
 ### _Hi there 👋, I'm BlackSpacee_
 
-Love listening to music ⚡ digital ⚡ researching new technology , Welcome to academic exchanges with me!
+Love listening to music ⚡ digital ⚡ researching new technology , Welcome to academic exchanges with me !
 
 
 [![163 邮箱](https://img.shields.io/badge/-163%20Mail-FC1F1F?style=plastic&link=mailto:find_onepiece@163.com)](mailto:find_geekfengzz@163.com)
