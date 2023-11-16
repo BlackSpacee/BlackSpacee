@@ -3,7 +3,7 @@
 ![](https://raw.githubusercontent.com/BlackSpacee/BlackSpacee/output/github-contribution-grid-snake.svg)
 
 ### <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">
-### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ping+Fang+SC&pause=1000&color=000000&random=false&width=435&lines=Hello%2C+I'm+BlackSpacee." alt="Typing SVG" /></a>
+### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ping+Fang+SC&pause=1000&color=000000&random=false&width=435&lines=Hello%2C+I'm+BlackSpacee.+%F0%9F%A4%97" alt="Typing SVG" /></a>
 
 Love listening to music ⚡ digital ⚡ researching new technology , Welcome to academic exchanges with me !
 
