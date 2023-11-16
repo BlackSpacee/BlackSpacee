@@ -78,7 +78,7 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/BlackSpa
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackSpacee&layout=compact)
 ![BlackSpacee's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlackSpacee&show_icons=true)
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31bzk4rdwgjslsgi5zuryhuwlxzm&width=300&height=300&count=3)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31bzk4rdwgjslsgi5zuryhuwlxzm)
 -->
 
 ### My Skill Set
