@@ -1,7 +1,11 @@
 <link rel="stylesheet" type="text/css" href="./beautiful.css">
 
-![](https://raw.githubusercontent.com/BlackSpacee/BlackSpacee/output/github-contribution-grid-snake.svg)
-![](https://raw.githubusercontent.com/BlackSpacee/BlackSpacee/main/assets/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BlackSpacee/BlackSpacee/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BlackSpacee/BlackSpacee/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BlackSpacee/BlackSpacee/output/github-contribution-grid-snake.svg">
+</picture>
+
 <p align="center">
   <h1 height="200px" align="center">
    Hello!<img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">, I'm BlackSpacee
