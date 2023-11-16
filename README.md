@@ -58,15 +58,19 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/BlackSpa
 <!--
 <table border="0">
 <tr>
+
 <td valign="top">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackSpacee&layout=compact" alt="Top Langs" height="160" />
 </td>
+
 <td valign="top">
 <img src="https://github-readme-stats.vercel.app/api?username=BlackSpacee&show_icons=true" alt="BlackSpacee's GitHub stats" height="160" />
 </td>
+
 <td valign="top">
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=31bzk4rdwgjslsgi5zuryhuwlxzm&show_icons=true" alt="BlackSpacee's GitHub stats" height="160" />
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=31bzk4rdwgjslsgi5zuryhuwlxzm&show_icons=true" alt="Spotify recently played" height="160" />
 </td>
+
 </tr>
 </table>
 -->
@@ -74,6 +78,7 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/BlackSpa
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackSpacee&layout=compact)
 ![BlackSpacee's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlackSpacee&show_icons=true)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31bzk4rdwgjslsgi5zuryhuwlxzm&width=300&height=300&count=3)
 -->
 
 ### My Skill Set
