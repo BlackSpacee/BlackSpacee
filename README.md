@@ -83,7 +83,7 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/BlackSpa
 -->
 
 ### My Skill Set
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="33%">
 
 
 
