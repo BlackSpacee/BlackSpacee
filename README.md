@@ -13,7 +13,7 @@
    <p align="center">Love listening to music ⚡ digital ⚡ researching new technology , Welcome to academic exchanges with me !</p>
 </p>
 
-Love listening to music ⚡ digital ⚡ researching new technology , Welcome to academic exchanges with me !
+<div align="center">Love listening to music ⚡ digital ⚡ researching new technology , Welcome to academic exchanges with me !</div>
 
 
 [![163 邮箱](https://img.shields.io/badge/-163%20Mail-FC1F1F?style=plastic&link=mailto:find_onepiece@163.com)](mailto:find_geekfengzz@163.com)
@@ -68,19 +68,15 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/BlackSpa
 <!--
 <table border="0">
 <tr>
-
 <td valign="top">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackSpacee&layout=compact" alt="Top Langs" height="160" />
 </td>
-
 <td valign="top">
 <img src="https://github-readme-stats.vercel.app/api?username=BlackSpacee&show_icons=true" alt="BlackSpacee's GitHub stats" height="160" />
 </td>
-
 <td valign="top">
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=31bzk4rdwgjslsgi5zuryhuwlxzm&show_icons=true" alt="Spotify recently played" height="160" />
 </td>
-
 </tr>
 </table>
 -->
