@@ -61,7 +61,7 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/BlackSpa
 
 
 [<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackSpacee&hide=html&layout=compact" height=145/></span>
-<span><img src="https://spotify-recently-played-readme.vercel.app/api?user=31bzk4rdwgjslsgi5zuryhuwlxzm&width=378&count=3&show_icons=true" height=145/></span>](https://kiyomi9.gitee.io/)
+<span><img src="https://spotify-recently-played-readme.vercel.app/api?user=31bzk4rdwgjslsgi5zuryhuwlxzm&count=3&show_icons=true" height=145/></span>](https://kiyomi9.gitee.io/)
 
 <!--
 <table border="0">
@@ -71,7 +71,7 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/BlackSpa
 </td>
 
 <td valign="top">
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=31bzk4rdwgjslsgi5zuryhuwlxzm&show_icons=true" alt="Spotify recently played" height="160" />
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=31bzk4rdwgjslsgi5zuryhuwlxzm&show_icons=true" alt="Spotify recently played" width="600" height="160" />
 </td>
 </tr>
 </table>
