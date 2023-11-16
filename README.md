@@ -17,7 +17,6 @@ Love listening to music ⚡ digital ⚡ researching new technology , Welcome to 
 [![WeChat](https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white)](https://raw.githubusercontent.com/BlackSpacee/icon/main/Other/Mywechat.jpg)
 
 
-<p align="center">
 - 🚀 I use daily:
   [![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=JavaScript&logoColor=FFCA28)](https://kiyomi9.gitee.io/)
   [![Vue](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)](https://kiyomi9.gitee.io/)
@@ -52,10 +51,8 @@ Love listening to music ⚡ digital ⚡ researching new technology , Welcome to 
   [![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)](https://kiyomi9.gitee.io/)
   [![Kubernetes](https://img.shields.io/badge/-Kubernetes-F5F5F5?logo=Kubernetes&logoColor=316CE6)](https://kiyomi9.gitee.io/)
 
-
 Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/BlackSpacee/count.svg)](https://kiyomi9.gitee.io/) visitor, Thank You!🎉🎉
 
-</p>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackSpacee&theme=flag-india)](https://github.com/BlackSpacee/github-readme-stats) -->
 
