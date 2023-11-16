@@ -1,7 +1,7 @@
 <link rel="stylesheet" type="text/css" href="./beautiful.css">
 
 ![](https://raw.githubusercontent.com/BlackSpacee/BlackSpacee/output/github-contribution-grid-snake.svg)
-
+![](https://raw.githubusercontent.com/BlackSpacee/BlackSpacee/main/assets/github-contribution-grid-snake.svg)
 <p align="center">
   <h1 height="200px" align="center">
    Hello!<img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">, I'm BlackSpacee
