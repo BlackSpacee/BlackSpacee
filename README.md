@@ -70,7 +70,7 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/BlackSpa
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackSpacee&layout=compact" alt="Top Langs" height="160" />
 </td>
 
-<td valign="top">
+<td valign="right">
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=31bzk4rdwgjslsgi5zuryhuwlxzm&show_icons=true" alt="Spotify recently played"  height="160" />
 </td>
 </tr>
