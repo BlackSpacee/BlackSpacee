@@ -56,11 +56,12 @@
 
 Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/BlackSpacee/count.svg)](https://kiyomi9.gitee.io/) visitor, Thank You!🎉🎉
 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackSpacee&theme=flag-india)](https://github.com/BlackSpacee/github-readme-stats) -->
 
 
 
 [<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackSpacee&hide=html&layout=compact" height=145/></span>
-<span><img src="https://github-readme-stats.vercel.app/api?username=BlackSpacee&count_private=true&show_icons=true" height=145/></span>
+
 <span><img src="https://spotify-recently-played-readme.vercel.app/api?user=31bzk4rdwgjslsgi5zuryhuwlxzm&count=3&show_icons=true" height=145/></span>
 ](https://kiyomi9.gitee.io/)
 
