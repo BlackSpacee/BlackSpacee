@@ -53,6 +53,8 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/BlackSpa
 
 [<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackSpacee&hide=html&layout=compact" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api?username=BlackSpacee&count_private=true&show_icons=true" height=145/></span>](https://kiyomi9.gitee.io/)
 
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)
+
 <!--
 <table border="0">
 <tr>
