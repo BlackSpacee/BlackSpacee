@@ -61,7 +61,6 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/BlackSpa
 
 
 [<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackSpacee&hide=html&layout=compact" height=145/></span>
-<span><img src="https://github-readme-stats.vercel.app/api?username=BlackSpacee&count_private=true&show_icons=true" height=145/></span>
 <span><img src="https://spotify-recently-played-readme.vercel.app/api?user=31bzk4rdwgjslsgi5zuryhuwlxzm&count=3&show_icons=true" height=145/></span>](https://kiyomi9.gitee.io/)
 
 <!--
@@ -80,12 +79,11 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/BlackSpa
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackSpacee&layout=compact)
-![BlackSpacee's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlackSpacee&show_icons=true)
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31bzk4rdwgjslsgi5zuryhuwlxzm)
 -->
 
 ### My Skill Set
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
 
 
 
