@@ -2,9 +2,6 @@
 
 ![](https://raw.githubusercontent.com/BlackSpacee/BlackSpacee/output/github-contribution-grid-snake.svg)
 
-### <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">
-### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ping+Fang+SC&pause=1000&color=000000&random=false&width=435&lines=Hello%2C+I'm+BlackSpacee.+%F0%9F%A4%97" alt="Typing SVG" /></a>
-
 <p align="center">
   <h1 height="200px" align="center">
    Hello!<img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">, I'm BlackSpacee
@@ -14,7 +11,7 @@
 
 Love listening to music ⚡ digital ⚡ researching new technology , Welcome to academic exchanges with me !
 
-
+<p align="center">
 [![163 邮箱](https://img.shields.io/badge/-163%20Mail-FC1F1F?style=plastic&link=mailto:find_onepiece@163.com)](mailto:find_geekfengzz@163.com)
 [![gmail 邮箱](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:geekfengzz@gmail.com)
 [![WeChat](https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white)](https://raw.githubusercontent.com/BlackSpacee/icon/main/Other/Mywechat.jpg)
@@ -55,6 +52,8 @@ Love listening to music ⚡ digital ⚡ researching new technology , Welcome to 
 
 
 Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/BlackSpacee/count.svg)](https://kiyomi9.gitee.io/) visitor, Thank You!🎉🎉
+
+</p>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackSpacee&theme=flag-india)](https://github.com/BlackSpacee/github-readme-stats) -->
 
