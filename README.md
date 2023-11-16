@@ -64,6 +64,9 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/BlackSpa
 <td valign="top">
 <img src="https://github-readme-stats.vercel.app/api?username=BlackSpacee&show_icons=true" alt="BlackSpacee's GitHub stats" height="160" />
 </td>
+<td valign="top">
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=31bzk4rdwgjslsgi5zuryhuwlxzm&show_icons=true" alt="BlackSpacee's GitHub stats" height="160" />
+</td>
 </tr>
 </table>
 -->
