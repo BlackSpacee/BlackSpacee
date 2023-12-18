@@ -7,11 +7,11 @@
    <p align="center">Love listening to music ⚡ digital ⚡ researching new technology , Welcome to academic exchanges with me !</p>
 </p>
 
+- 🚀 I use daily:
 
-
-[![163 邮箱](https://img.shields.io/badge/-163%20Mail-FC1F1F?style=plastic&link=mailto:find_onepiece@163.com)](mailto:find_geekfengzz@163.com)
-[![gmail 邮箱](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:geekfengzz@gmail.com)
-[![WeChat](https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white)](https://raw.githubusercontent.com/BlackSpacee/icon/main/Other/Mywechat.jpg)
+  [![163 邮箱](https://img.shields.io/badge/-163%20Mail-FC1F1F?style=plastic&link=mailto:find_onepiece@163.com)](mailto:find_geekfengzz@163.com)
+  [![gmail 邮箱](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:geekfengzz@gmail.com)
+  [![WeChat](https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white)](https://raw.githubusercontent.com/BlackSpacee/icon/main/Other/Mywechat.jpg)
 
 
 - 🚀 I use daily:
@@ -50,31 +50,12 @@
 
 Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/BlackSpacee/count.svg)](https://kiyomi9.gitee.io/) visitor, Thank You!🎉🎉
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackSpacee&theme=flag-india)](https://github.com/BlackSpacee/github-readme-stats) -->
 
 
+| ![BlackSpacee's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackspacee&show_icons=true&theme=radical&title_color=1ed760&bg_color=212121&text_color=dadada&locale=cn&count_private=true&include_all_commits=)  |  [![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31bzk4rdwgjslsgi5zuryhuwlxzm&count=3&show_icons=true)](https://kiyomi9.gitee.io/) |
+| --- | --- |
 
-[<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackSpacee&hide=html&layout=compact" height=145/></span>
-<span><img src="https://spotify-recently-played-readme.vercel.app/api?user=31bzk4rdwgjslsgi5zuryhuwlxzm&count=3&show_icons=true" height=145/></span>](https://kiyomi9.gitee.io/)
 
-<!--
-<table border="0">
-<tr>
-<td valign="middle">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackSpacee&layout=compact" alt="Top Langs" height="160" />
-</td>
-
-<td valign="middle">
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=31bzk4rdwgjslsgi5zuryhuwlxzm&show_icons=true" alt="Spotify recently played"  height="160" />
-</td>
-</tr>
-</table>
--->
-
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackSpacee&layout=compact)
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31bzk4rdwgjslsgi5zuryhuwlxzm)
--->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BlackSpacee/BlackSpacee/output/github-contribution-grid-snake-dark.svg">
@@ -85,9 +66,7 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/BlackSpa
 
 ### My Skill Set
 <table><tr><td valign="top" width="33%">
-
-
-
+  
 #### Frontend
 <div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
