@@ -49,7 +49,7 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/BlackSpa
 
 
 
-| ![BlackSpacee's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackspacee&show_icons=true&theme=radical&title_color=1ed760&bg_color=212121&text_color=dadada&locale=cn&count_private=true&include_all_commits=)  |  [![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31bzk4rdwgjslsgi5zuryhuwlxzm&count=3&show_icons=true)](https://open.spotify.com/user/31bzk4rdwgjslsgi5zuryhuwlxzm?si=sXGAKo6GTLqBRMJh959t3w) |
+| ![BlackSpacee's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackspacee&show_icons=true&theme=radical&title_color=1ed760&bg_color=212121&text_color=dadada&locale=cn&count_private=true&count_private=true&include_all_commits=true)  |  [![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31bzk4rdwgjslsgi5zuryhuwlxzm&count=3&show_icons=true)](https://open.spotify.com/user/31bzk4rdwgjslsgi5zuryhuwlxzm?si=sXGAKo6GTLqBRMJh959t3w) |
 | --- | --- |
 
 
