@@ -45,7 +45,7 @@
   [![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)](https://kiyomi9.gitee.io/)
   [![Kubernetes](https://img.shields.io/badge/-Kubernetes-F5F5F5?logo=Kubernetes&logoColor=316CE6)](https://kiyomi9.gitee.io/)
 
-  Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/BlackSpacee/count.svg)](https://kiyomi9.gitee.io/) visitor, Thank You!🎉🎉
+- Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/BlackSpacee/count.svg)](https://kiyomi9.gitee.io/) visitor, Thank You!🎉🎉
 
 
 
