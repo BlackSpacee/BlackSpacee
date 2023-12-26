@@ -1,0 +1,14 @@
+<style>
+  .tb{
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+  .tb .row, .tb .column, .tb .column .row {
+    border: 0px;
+}
+  .tb .colimn .row{
+    width: 50%;
+
+  }
+</style>
