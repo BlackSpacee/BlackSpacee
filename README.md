@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="./beautiful.css">
+
 <p align="center">
   <h1 height="200px" align="center">
    Hello!<img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">, I'm BlackSpacee
