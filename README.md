@@ -1,18 +1,3 @@
-<style>
-  .tb{
-    width: 100%;
-    border-collapse: collapse;
-  }
-
-  .tb .row, .tb .column, .tb .column .row {
-    border: 0px;
-}
-  
-  .tb .colimn .row{
-    width: 50%;
-  }
-</style>
-
 <p align="center">
   <h1 height="200px" align="center">
    Hello!<img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">, I'm BlackSpacee
