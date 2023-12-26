@@ -1,14 +1,30 @@
+<style>
+  .tb{
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+  .tb .row, .tb .column, .tb .column .row {
+    border: 0px;
+}
+  
+  .tb .colimn .row{
+    width: 50%;
+  }
+</style>
+
 <p align="center">
   <h1 height="200px" align="center">
    Hello!<img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">, I'm BlackSpacee
   </h1>
-   <p align="center">Love listening to music ⚡ digital ⚡ researching new technology , Welcome to academic exchanges with me !</p>
+<p align="center">Love listening to music ⚡ digital ⚡ researching new technology , Welcome to academic exchanges with me !</p>
 </p>
+
+</br>
 
 - ❤ Contact information :
   [![163 邮箱](https://img.shields.io/badge/-163%20Mail-FC1F1F?style=plastic&link=mailto:find_onepiece@163.com)](mailto:find_geekfengzz@163.com)
   [![gmail 邮箱](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:geekfengzz@gmail.com)
-
 
 - 🚀 I use daily:
   [![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=JavaScript&logoColor=FFCA28)](https://kiyomi9.gitee.io/)
@@ -46,13 +62,31 @@
 
 - Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/BlackSpacee/count.svg)](https://kiyomi9.gitee.io/) visitor, Thank You!🎉🎉
 
-
-|  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BlackSpacee&repo=Loon&title_color=1ed760&icon_color=1ed760&bg_color=212121&text_color=dadada)](https://github.com/BlackSpacee/Loon)   | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BlackSpacee&repo=QuantumultX&title_color=1ed760&icon_color=1ed760&bg_color=212121&text_color=dadada)](https://github.com/BlackSpacee/QuantumultX)  |
+<!-- |  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BlackSpacee&repo=Loon&title_color=1ed760&icon_color=1ed760&bg_color=212121&text_color=dadada)](https://github.com/BlackSpacee/Loon)   | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BlackSpacee&repo=QuantumultX&title_color=1ed760&icon_color=1ed760&bg_color=212121&text_color=dadada)](https://github.com/BlackSpacee/QuantumultX)  |
 |  :----:  |  :----:  |
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BlackSpacee&repo=icon&title_color=1ed760&icon_color=1ed760&bg_color=212121&text_color=dadada)](https://github.com/BlackSpacee/icon)  | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BlackSpacee&repo=BlackSpacee.github.io&title_color=1ed760&icon_color=1ed760&bg_color=212121&text_color=dadada)](https://github.com/BlackSpacee/BlackSpacee.github.io) |
-| ![BlackSpacee's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackspacee&show_icons=true&theme=radical&title_color=1ed760&icon_color=1ed760&bg_color=212121&text_color=dadada&card_width=400&line_height=29&count_private=true&include_all_commits=ture)  | [![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31bzk4rdwgjslsgi5zuryhuwlxzm&count=3&show_icons=true&width=437)](https://open.spotify.com/user/31bzk4rdwgjslsgi5zuryhuwlxzm?si=sXGAKo6GTLqBRMJh959t3w) |
+| ![BlackSpacee's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackspacee&show_icons=true&theme=radical&title_color=1ed760&icon_color=1ed760&bg_color=212121&text_color=dadada&card_width=400&line_height=29&count_private=true&include_all_commits=ture)  | [![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31bzk4rdwgjslsgi5zuryhuwlxzm&count=3&show_icons=true&width=437)](https://open.spotify.com/user/31bzk4rdwgjslsgi5zuryhuwlxzm?si=sXGAKo6GTLqBRMJh959t3w) | -->
 
+<table class="tb">
 
+  <tr class="column">
+    <th class="row"><a href="https://github.com/BlackSpacee/Loon"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BlackSpacee&repo=Loon&title_color=1ed760&icon_color=1ed760&bg_color=212121&text_color=dadada"/></a></th>
+    <th class="row"><a href="https://github.com/BlackSpacee/QuantumultX"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BlackSpacee&repo=QuantumultX&title_color=1ed760&icon_color=1ed760&bg_color=212121&text_color=dadada"/></a></th>
+  </tr>
+
+  <tr class="column">
+    <td class="row"><a href="https://github.com/BlackSpacee/icon"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BlackSpacee&repo=icon&title_color=1ed760&icon_color=1ed760&bg_color=212121&text_color=dadada"/></a></td>
+    <td class="row"><a href="https://github.com/BlackSpacee/BlackSpacee.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BlackSpacee&repo=BlackSpacee.github.io&title_color=1ed760&icon_color=1ed760&bg_color=212121&text_color=dadada"/></a></td>
+  </tr>
+
+  <tr class="column">
+    <td class="row">
+    <span><img src="https://github-readme-stats.vercel.app/api?username=blackspacee&show_icons=true&theme=radical&title_color=1ed760&icon_color=1ed760&bg_color=212121&text_color=dadada&card_width=400&line_height=29&count_private=true&include_all_commits=ture"/></span></td>
+    <td class="row"><a href="https://open.spotify.com/user/31bzk4rdwgjslsgi5zuryhuwlxzm?si=sXGAKo6GTLqBRMJh959t3w"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31bzk4rdwgjslsgi5zuryhuwlxzm&count=3&show_icons=true&width=437"/></a>
+    </td>
+   </tr>
+
+</table>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BlackSpacee/BlackSpacee/output/github-contribution-grid-snake-dark.svg">
@@ -60,12 +94,15 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BlackSpacee/BlackSpacee/output/github-contribution-grid-snake.svg">
 </picture>
 
-
 ### My Skill Set
-<table><tr><td valign="top" width="33%">
-  
-#### Frontend
+
+<table>
+<tr>
+<td  valign="top" width="33%">
 <div align="center">
+
+#### Frontend
+
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
@@ -79,12 +116,14 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />
 </div>
-
 </td>
+
 <td valign="top" width="33%">
 
-#### Backend
 <div align="center">
+
+#### Backend
+
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />
@@ -94,12 +133,13 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" />
 </div>
-
 </td>
+
 <td valign="top" width="33%">
+<div align="center">
 
 #### DevOps
-<div align="center">
+
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />
@@ -112,6 +152,7 @@
 </table>
 
 <br/>
+
 <div align="center">
   <a href="https://raw.githubusercontent.com/BlackSpacee/icon/main/Other/Buymecoffee.jpg" target="_blank" style="display: inline-block;">
     <img
