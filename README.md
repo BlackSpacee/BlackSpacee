@@ -119,7 +119,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://raw.githubusercontent.com/BlackSpacee/icon/main/Other/Buymecoffee.jpg" target="_blank" style="display: inline-block;">
+  <a href="https://raw.githubusercontent.com/BlackSpacee/BlackSpacee/main/src/img/Buymecoffee.jpg" target="_blank" style="display: inline-block;">
     <img
         src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square"
         align="center"
